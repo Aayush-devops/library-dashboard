@@ -63,7 +63,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/travel-agency-dashboard.git
+git clone https://github.com/Aayush-devops/library-dashboard.git
 cd travel-agency-dashboard
 Installation
 

@@ -117,3 +117,44 @@ app/appwrite/auth.ts
 app/routes/admin/create-trip.tsx
 app/appwrite/dashboard.ts
 app/routes/admin/dashboard.tsx
+
+Replace the placeholder values with your actual credentials.
+Syncfusion
+
+Appwrite
+
+Gemini AI
+
+Sentry
+
+Stripe
+
+Unsplash
+
+Running the Project
+
+npm run dev
+Open http://localhost:5173 in your browser to view the project.
+
+🕸️ Snippets
+app.css
+constants/index.ts
+index.d.ts
+app/lib/utils.ts
+npm install syncfusion
+dashboardStats (dummy)
+allTrips (dummy)
+users (dummy)
+Create Trip Prompt
+app/appwrite/auth.ts
+app/routes/admin/create-trip.tsx
+app/appwrite/dashboard.ts
+app/routes/admin/dashboard.tsx
+🔗 Assets
+Assets used in the project can be found here Video Kit Banner
+🚀 More
+Advance your skills with Next.js Pro Course
+
+Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+
+Project Banner
